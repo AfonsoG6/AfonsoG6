@@ -6,16 +6,27 @@
 [![](https://raw.githubusercontent.com/AfonsoG6/AfonsoG6/main/banner.png)](https://afonsog6.github.io)
 
 <!-- Introduction -->
-✨ Currently finishing my master's degree in Computer Science and Engineering. My main interests are Cyber-Security and Computer Networks. I'm also interested in Game Development, although mostly as a hobby. I speak Portuguese and English fluently, as well as Spanish at an intermediate level.
+### About me:
+
+🌐 Currently finishing my master's degree in Computer Science and Engineering.
+\
+My main interests are Cyber-Security and Computer Networks.
+\
+I'm also interested in Game Development, although mostly as a hobby.
+\
+I speak Portuguese and English fluently, as well as Spanish at an intermediate level.
+
+---
 
 ### Currently working on:
-- **MSc Thesis:** Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing
+**MSc Thesis:** Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing
 
-&ensp;&ensp;&ensp;
 ![Using](https://img.shields.io/badge/using%3A-%237E4798.svg?style=for-the-badge&color=22272E)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ### Languages:
 
@@ -40,6 +51,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### Main IDEs:
 
