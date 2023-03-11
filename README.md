@@ -3,7 +3,8 @@
 <!-- Used this repository by lleriayo to obtain the badges used: https://github.com/Ileriayo/markdown-badges -->
 
 <!-- Image or GIF to use as banner and hyperlink to personal website -->
-[![](https://raw.githubusercontent.com/AfonsoG6/AfonsoG6/main/banner.png)](http://web2.tecnico.ulisboa.pt/ist192410/CV_Afonso_Gomes.pdf)
+[![](https://raw.githubusercontent.com/AfonsoG6/AfonsoG6/main/banner_dm.png#gh-dark-mode-only)](http://web2.tecnico.ulisboa.pt/ist192410/CV_Afonso_Gomes.pdf#gh-dark-mode-only)
+[![](https://raw.githubusercontent.com/AfonsoG6/AfonsoG6/main/banner_lm.png#gh-light-mode-only)](http://web2.tecnico.ulisboa.pt/ist192410/CV_Afonso_Gomes.pdf#gh-light-mode-only)
 
 <!-- Introduction -->
 ### About me:
