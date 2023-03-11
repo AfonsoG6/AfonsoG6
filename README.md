@@ -3,7 +3,7 @@
 <!-- Used this repository by lleriayo to obtain the badges used: https://github.com/Ileriayo/markdown-badges -->
 
 <!-- Image or GIF to use as banner and hyperlink to personal website -->
-[![](https://raw.githubusercontent.com/AfonsoG6/AfonsoG6/master/banner.png)](https://afonsog6.github.io)
+[![](https://raw.githubusercontent.com/AfonsoG6/AfonsoG6/main/banner.png)](https://afonsog6.github.io)
 
 <!-- Introduction -->
 Currently finishing my master's degree in Computer Science and Engineering. My main interests are Cyber-Security and Computer Networks. I'm also interested in Game Development, although mostly as a hobby. I speak Portuguese and English fluently, as well as Spanish at an intermediate level.
