@@ -6,7 +6,7 @@
 [![](https://raw.githubusercontent.com/AfonsoG6/AfonsoG6/main/banner.png)](https://afonsog6.github.io)
 
 <!-- Introduction -->
-Currently finishing my master's degree in Computer Science and Engineering. My main interests are Cyber-Security and Computer Networks. I'm also interested in Game Development, although mostly as a hobby. I speak Portuguese and English fluently, as well as Spanish at an intermediate level.
+✨ Currently finishing my master's degree in Computer Science and Engineering. My main interests are Cyber-Security and Computer Networks. I'm also interested in Game Development, although mostly as a hobby. I speak Portuguese and English fluently, as well as Spanish at an intermediate level.
 
 ### Currently working on:
 - **MSc Thesis:** Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing
@@ -17,14 +17,7 @@ Currently finishing my master's degree in Computer Science and Engineering. My m
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-### Main IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-
-### Languages
+### Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -36,7 +29,7 @@ Currently finishing my master's degree in Computer Science and Engineering. My m
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Technologies
+### Technologies:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,3 +40,9 @@ Currently finishing my master's degree in Computer Science and Engineering. My m
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Main IDEs:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
