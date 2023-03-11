@@ -23,7 +23,7 @@
 \> **MSc Thesis:** Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing
 
 &ensp;
-![Using](https://img.shields.io/badge/using%3A-%237E4798.svg?style=for-the-badge&color=22272E)
+![Using](https://img.shields.io/badge/using%3A-%237E4798.svg?style=for-the-badge&color=rgba(34,39,46,0))
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
