@@ -9,8 +9,6 @@
 <!-- Introduction -->
 ### About me:
 
-\> Currently finishing my master's degree in Computer Science and Engineering.
-\
 \> My main interests are Cyber-Security and Computer Networks.
 \
 \> I'm also interested in Game Development, although mostly as a hobby.
@@ -19,14 +17,24 @@
 
 ---
 
-### Currently working on:
-\> **MSc Thesis:** Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing
+### Currently working as:
+\> Technical Consulting Engineer @ Cisco Portugal
+\> Teaching Assistant @ Instituto Superior Técnico
+
+---
+
+### Msc Thesis:
+
+\> **Title:** Thwarting Traffic Confirmation Attacks in Tor with Traffic Modulation and Cover Traffic
+\> **Documents:** ![Dissertation](http://web2.tecnico.ulisboa.pt/~ist192410/92410-Afonso-Gomes-dissertacao.pdf) and ![Extended Abstract](http://web2.tecnico.ulisboa.pt/~ist192410/92410-Afonso-Gomes-resumo.pdf)
+\> **Grade:** 19/20
 
 &ensp;
 ![Using](https://img.shields.io/badge/using%3A-%237E4798.svg?style=for-the-badge&color=rgba(34,39,46,0))
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
