@@ -28,7 +28,7 @@
 
 \> **Title:** Thwarting Traffic Confirmation Attacks in Tor with Traffic Modulation and Cover Traffic
 \
-\> **Documents:** ![Dissertation](http://web2.tecnico.ulisboa.pt/~ist192410/92410-Afonso-Gomes-dissertacao.pdf) and ![Extended Abstract](http://web2.tecnico.ulisboa.pt/~ist192410/92410-Afonso-Gomes-resumo.pdf)
+\> **Documents:** [Dissertation](http://web2.tecnico.ulisboa.pt/~ist192410/92410-Afonso-Gomes-dissertacao.pdf) and [Extended Abstract](http://web2.tecnico.ulisboa.pt/~ist192410/92410-Afonso-Gomes-resumo.pdf)
 \
 \> **Grade:** 19/20
 
