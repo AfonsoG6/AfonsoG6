@@ -9,18 +9,12 @@
 <!-- Introduction -->
 ### About me:
 
-\> My main interests are Cyber-Security and Computer Networks.
-\
-\> I'm also interested in Game Development, although mostly as a hobby.
-\
-\> I speak Portuguese and English fluently, as well as Spanish at an intermediate level.
+I’m a Security Engineer with a Master's degree in Computer Science and Engineering, specializing in Cyber-Security. I find joy in thoroughly understanding things, which often leads me to analyze them with great attention to detail. Additionally, I take pleasure in explaining things to others. I speak Portuguese and English fluently, as well as Spanish at an intermediate level.
 
 ---
 
 ### Currently working as:
 \> Technical Consulting Engineer @ Cisco Portugal
-\
-\> Teaching Assistant @ Instituto Superior Técnico
 
 ---
 
