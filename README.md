@@ -14,7 +14,7 @@ I’m a Security Engineer with a Master's degree in Computer Science and Enginee
 ---
 
 ### Currently working as:
-\> Technical Consulting Engineer @ Cisco Portugal
+\> Malware Analyst @ S21Sec
 
 ---
 
