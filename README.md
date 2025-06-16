@@ -14,7 +14,7 @@ I’m a Security Engineer with a Master's degree in Computer Science and Enginee
 ---
 
 ### Currently working as:
-\> Malware Analyst @ S21Sec
+\> Detection Engineer @ Cisco
 
 ---
 
